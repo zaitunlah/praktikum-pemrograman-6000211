@@ -6,6 +6,7 @@ print()
 x=2023
 print('Angkatan'+' '+str(x))
 print()
+print()
 
 
 
